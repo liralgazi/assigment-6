@@ -1,4 +1,4 @@
 from datetime import datetime 
 
-print("Welcome to Git Assignment")
+print("Welcome from the MAIN branch ")
 print("Current date and time: ",datetime.now() )
