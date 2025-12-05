@@ -1,4 +1,5 @@
 from datetime import datetime 
 
-print("Welcome from Lir's merged script! ")
+print("Hello World")
+print("Welcome to my Git assigemnt"))
 print("Current date and time: ",datetime.now() )
